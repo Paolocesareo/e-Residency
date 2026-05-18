@@ -299,3 +299,29 @@ Piano Standard: €8/mese
 ---
 
 *Guida redatta nel 2026 — verificare sempre le normative aggiornate con un consulente fiscale internazionale.*
+
+---
+
+## Dati Società
+
+**Ragione sociale:** Pavaleggio Digital Services OÜ
+**Codice registro:** 17498228
+**Data registrazione:** 04.05.2026
+**Sede legale:** Harju maakond, Tallinn, Lasnamäe linnaosa, Sepapaja tn 6, 15551, Estonia
+**Email:** graziapetrini@gmail.com
+**Amministratrice:** Grazia Petrini
+**Capitale sociale:** €1
+**Socio unico:** Grazia Petrini
+
+---
+
+## Dati Bancari
+
+**Banca:** Revolut Bank UAB
+**Beneficiario:** Pavaleggio Digital Services OU
+**IBAN:** LT64 3250 0153 2293 0710
+**BIC:** REVOLT21
+**BIC intermediario (SWIFT):** CHASDEFX
+**Indirizzo banca:** Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
+**Data apertura conto:** 6 maggio 2026
+
